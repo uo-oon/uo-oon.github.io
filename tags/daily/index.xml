@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on おおん official site</title>
-    <link>https://uo-oon.github.io/post/</link>
-    <description>Recent content in Posts on おおん official site</description>
+    <title>daily on おおん official site</title>
+    <link>https://uo-oon.github.io/tags/daily/</link>
+    <description>Recent content in daily on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 06 Aug 2020 00:00:31 +0900</lastBuildDate>
     
-	<atom:link href="https://uo-oon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uo-oon.github.io/tags/daily/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://uo-oon.github.io/post/hello/</guid>
       <description>サイト作った githubとhugoを用いて作成した。 github pagesはstaticなサイト用だったためhugoを使用した。 好きなように改変できる</description>
-    </item>
-    
-    <item>
-      <title>TEST</title>
-      <link>https://uo-oon.github.io/post/starting-demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uo-oon.github.io/post/starting-demo/</guid>
-      <description>TEST tset投稿</description>
     </item>
     
   </channel>

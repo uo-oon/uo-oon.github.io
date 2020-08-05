@@ -6,9 +6,19 @@
     <description>Recent content in Tags on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:31 +0900</lastBuildDate>
     
 	<atom:link href="https://uo-oon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>daily</title>
+      <link>https://uo-oon.github.io/tags/daily/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:31 +0900</pubDate>
+      
+      <guid>https://uo-oon.github.io/tags/daily/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
