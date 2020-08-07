@@ -6,10 +6,19 @@
     <description>Recent content in Posts on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2020 00:00:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2020 21:21:27 +0900</lastBuildDate>
     
 	<atom:link href="https://uo-oon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Profile</title>
+      <link>https://uo-oon.github.io/post/profile/</link>
+      <pubDate>Fri, 07 Aug 2020 21:21:27 +0900</pubDate>
+      
+      <guid>https://uo-oon.github.io/post/profile/</guid>
+      <description>おおん プロフィール 情報工学科学部3年生。 プログラミングの勉強をしています。 音ゲーと旅行が好きです。 音楽ゲーム beatmania IIDX 皆伝 (IIDX27) DanceDanceRevolution 皆伝 (A20) SOUND VOLTEX 暴龍天,ク</description>
+    </item>
     
     <item>
       <title>作った</title>
@@ -27,6 +36,15 @@
       
       <guid>https://uo-oon.github.io/post/starting-demo/</guid>
       <description>TEST tset投稿</description>
+    </item>
+    
+    <item>
+      <title>サイト更新</title>
+      <link>https://uo-oon.github.io/post/site2020-08-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uo-oon.github.io/post/site2020-08-07/</guid>
+      <description>2020/08/07 Profileの設定作成した。 markdown形式でhtmlが使えるようにconfig.tomlを書き換えた。 ([markup.goldmark.renderer] unsafe = trueの追記) mdと</description>
     </item>
     
   </channel>

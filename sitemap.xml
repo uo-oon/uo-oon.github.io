@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://uo-oon.github.io/post/profile/</loc>
+    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uo-oon.github.io/tags/daily/</loc>
-    <lastmod>2020-08-06T00:00:31+09:00</lastmod>
+    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://uo-oon.github.io/post/</loc>
-    <lastmod>2020-08-06T00:00:31+09:00</lastmod>
+    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://uo-oon.github.io/tags/</loc>
-    <lastmod>2020-08-06T00:00:31+09:00</lastmod>
+    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://uo-oon.github.io/</loc>
-    <lastmod>2020-08-06T00:00:31+09:00</lastmod>
+    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +38,10 @@
   
   <url>
     <loc>https://uo-oon.github.io/post/starting-demo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/post/site2020-08-07/</loc>
   </url>
   
 </urlset>
