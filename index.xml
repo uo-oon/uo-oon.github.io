@@ -6,44 +6,44 @@
     <description>Recent content on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2020 21:21:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 21:22:18 +0900</lastBuildDate>
     
 	<atom:link href="https://uo-oon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>シェアボタンの設置</title>
+      <link>https://uo-oon.github.io/20200808/share/</link>
+      <pubDate>Sat, 08 Aug 2020 21:22:18 +0900</pubDate>
+      
+      <guid>https://uo-oon.github.io/20200808/share/</guid>
+      <description>シェアボタンの設置 記事の下にシェアボタンを設置した。 こちらを基に設置した。 このサイトでは記事を構成するhtmlは/layouts/_defa</description>
+    </item>
+    
+    <item>
       <title> Profile</title>
-      <link>https://uo-oon.github.io/post/profile/</link>
+      <link>https://uo-oon.github.io/20200807/profile/</link>
       <pubDate>Fri, 07 Aug 2020 21:21:27 +0900</pubDate>
       
-      <guid>https://uo-oon.github.io/post/profile/</guid>
+      <guid>https://uo-oon.github.io/20200807/profile/</guid>
       <description>おおん プロフィール 情報工学科学部3年生。 プログラミングの勉強をしています。 音ゲーと旅行が好きです。 音楽ゲーム beatmania IIDX 皆伝 (IIDX27) DanceDanceRevolution 皆伝 (A20) SOUND VOLTEX 暴龍天,ク</description>
     </item>
     
     <item>
       <title>作った</title>
-      <link>https://uo-oon.github.io/post/hello/</link>
+      <link>https://uo-oon.github.io/20200806/hello/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:31 +0900</pubDate>
       
-      <guid>https://uo-oon.github.io/post/hello/</guid>
+      <guid>https://uo-oon.github.io/20200806/hello/</guid>
       <description>サイト作った githubとhugoを用いて作成した。 github pagesはstaticなサイト用だったためhugoを使用した。 好きなように改変できる</description>
     </item>
     
     <item>
-      <title>TEST</title>
-      <link>https://uo-oon.github.io/post/starting-demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uo-oon.github.io/post/starting-demo/</guid>
-      <description>TEST tset投稿</description>
-    </item>
-    
-    <item>
       <title>サイト更新</title>
-      <link>https://uo-oon.github.io/post/site2020-08-07/</link>
+      <link>https://uo-oon.github.io/10101/history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://uo-oon.github.io/post/site2020-08-07/</guid>
+      <guid>https://uo-oon.github.io/10101/history/</guid>
       <description>2020/08/07 Profileの設定作成した。 markdown形式でhtmlが使えるようにconfig.tomlを書き換えた。 ([markup.goldmark.renderer] unsafe = trueの追記) mdと</description>
     </item>
     

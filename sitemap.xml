@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://uo-oon.github.io/post/profile/</loc>
+    <loc>https://uo-oon.github.io/post/</loc>
+    <lastmod>2020-08-08T21:22:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/tags/site/</loc>
+    <lastmod>2020-08-08T21:22:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/tags/</loc>
+    <lastmod>2020-08-08T21:22:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/</loc>
+    <lastmod>2020-08-08T21:22:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/20200808/share/</loc>
+    <lastmod>2020-08-08T21:22:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uo-oon.github.io/20200807/profile/</loc>
     <lastmod>2020-08-07T21:21:27+09:00</lastmod>
   </url>
   
@@ -13,22 +38,7 @@
   </url>
   
   <url>
-    <loc>https://uo-oon.github.io/post/</loc>
-    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uo-oon.github.io/tags/</loc>
-    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uo-oon.github.io/</loc>
-    <lastmod>2020-08-07T21:21:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uo-oon.github.io/post/hello/</loc>
+    <loc>https://uo-oon.github.io/20200806/hello/</loc>
     <lastmod>2020-08-06T00:00:31+09:00</lastmod>
   </url>
   
@@ -37,11 +47,7 @@
   </url>
   
   <url>
-    <loc>https://uo-oon.github.io/post/starting-demo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://uo-oon.github.io/post/site2020-08-07/</loc>
+    <loc>https://uo-oon.github.io/10101/history/</loc>
   </url>
   
 </urlset>
