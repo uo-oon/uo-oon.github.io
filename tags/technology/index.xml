@@ -6,17 +6,18 @@
     <description>Recent content in technology on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <lastBuildDate>Sat, 05 Sep 2020 21:23:25 +0900</lastBuildDate>
     
 	<atom:link href="https://uo-oon.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>なるべく安くポップンコントローラを作る</title>
-      <link>https://uo-oon.github.io/10101/popncon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>ちゃんとしたポップンコントローラを安く作る</title>
+      <link>https://uo-oon.github.io/20200905/popncon/</link>
+      <pubDate>Sat, 05 Sep 2020 21:23:25 +0900</pubDate>
       
-      <guid>https://uo-oon.github.io/10101/popncon/</guid>
-      <description>自作ポップンコントローラの制作 ■目次 1. 作ったもの 2. 費用と必要なもの 3. 箱の用意 4. ボタンと回路の用意 5. arduinoの用意 6. ボタンとarduin</description>
+      <guid>https://uo-oon.github.io/20200905/popncon/</guid>
+      <description>自作pop&#39;n musicコントローラの制作 ■目次 1. 作ったもの 2. 費用と必要なもの 3. 箱の用意 4. ボタンと回路の用意 5. arduinoの用意 6. ボタンと</description>
     </item>
     
   </channel>

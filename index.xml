@@ -6,10 +6,19 @@
     <description>Recent content on おおん official site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2020 21:22:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 21:23:25 +0900</lastBuildDate>
     
 	<atom:link href="https://uo-oon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ちゃんとしたポップンコントローラを安く作る</title>
+      <link>https://uo-oon.github.io/20200905/popncon/</link>
+      <pubDate>Sat, 05 Sep 2020 21:23:25 +0900</pubDate>
+      
+      <guid>https://uo-oon.github.io/20200905/popncon/</guid>
+      <description>自作pop&#39;n musicコントローラの制作 ■目次 1. 作ったもの 2. 費用と必要なもの 3. 箱の用意 4. ボタンと回路の用意 5. arduinoの用意 6. ボタンと</description>
+    </item>
     
     <item>
       <title>シェアボタンの設置</title>
@@ -36,15 +45,6 @@
       
       <guid>https://uo-oon.github.io/20200806/hello/</guid>
       <description>サイト作った githubとhugoを用いて作成した。 github pagesはstaticなサイト用だったためhugoを使用した。 好きなように改変できる</description>
-    </item>
-    
-    <item>
-      <title>なるべく安くポップンコントローラを作る</title>
-      <link>https://uo-oon.github.io/10101/popncon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://uo-oon.github.io/10101/popncon/</guid>
-      <description>自作ポップンコントローラの制作 ■目次 1. 作ったもの 2. 費用と必要なもの 3. 箱の用意 4. ボタンと回路の用意 5. arduinoの用意 6. ボタンとarduin</description>
     </item>
     
     <item>
