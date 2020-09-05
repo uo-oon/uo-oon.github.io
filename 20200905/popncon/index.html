@@ -75,8 +75,8 @@
 <h3 >1. 作ったもの</h3>
 まず今回作ったコントローラは以下の写真のものである。
 <br><br>
-<img src="/images/20200905/IMG_5131.JPG" alt="popncon" width = "80%" height = "80%"/>
-<img src="/images/20200905/IMG_5130.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5131.JPG" alt="popncon" width = "90%" height = "90%"/>
+<img src="/images/20200905/IMG_5130.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 バネは三和160g(200gの2巻切り)、スイッチ(オムロン0.49N)<br>
 ボタンは中華製の格安ボタン<br>
 主にpms用であり、ps2には対応していない。<br>
@@ -150,18 +150,18 @@
 27.6X8X12mm x2<br>
 67.6X8X12mm x1<br>
 である。<br><br>
-<img src="/images/20200905/IMG_5085.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5085.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 <p>2枚ずつあるT2の板を組み合わせ枠を作る。<br>
-<img src="/images/20200905/IMG_5086.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5086.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 天板に使用するMDFにくり抜く場所を書き、切り抜く。<br>
 寸法は「ポップン AC 寸法」で検索したものを参考にした。<br>
-<img src="/images/20200905/IMG_5089.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5089.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 T2で作った枠に天板を載せ、ボタンを置くと以下のようになる。<br>
-<img src="/images/20200905/IMG_5091.JPG" alt="popncon" /><br>
-<img src="/images/20200905/IMG_5092.JPG" alt="popncon" /><br>
+&lt;img src=&rdquo;/images/20200905/IMG_5091.JPG&rdquo; alt=&quot;popncon&quot;width = &ldquo;90%&rdquo; height = &ldquo;90%&rdquo; /&gt;<br>
+<img src="/images/20200905/IMG_5092.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 強度を高くするようにT2の枠の真ん中に木(67.6X8X12mm)入れ、横長の「日」の形にする。<br>
 この木を後で回路が通るように真ん中を少し削る。<br>
-<img src="/images/20200905/IMG_5120.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5120.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 天板と中に入れる木と枠を釘で固定する。塗装する場合は塗装後に固定する。<br>
 <br></p>
 <p><a id = "i4"> </a><br></p>
@@ -172,8 +172,8 @@ T2で作った枠に天板を載せ、ボタンを置くと以下のようにな
 また、ポップンボタン(照光式100mmボタン)は打撃音が大きいため、静音化をした方が良い。<br>
 中華製ポップンボタンの改良化は気が向いたら別途記事にする。<br>
 今回制作したコードではマイクロスイッチの中の真ん中と下の部分を使用するため、リード線をはんだ付けする。arduinoに接続するため、ジャンパーワイヤーともはんだ付けする。<br>
-<img src="/images/20200905/IMG_5115.JPG" alt="popncon" /><br>
-<img src="/images/20200905/IMG_5116.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5115.JPG" alt="popncon" width = "90%" height = "90%"/><br>
+<img src="/images/20200905/IMG_5116.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 写真では真ん中にはんだ付けをしているが、下にも同様にはんだ付けをする。<br>
 <br>
 <p><a id = "i5"> </a><br></p>
@@ -182,7 +182,7 @@ arduinoの出力をキーボード入力としてコントローラを作成す�
 arduino microでも良いのだが、arduinoを直接枠組に取り付けようと思ったため、 leonardoにした。<br>
 arduino unoやmegaはHID機能がないため使用できない。<br>
 arduino leonardo↓<br>
-<img src="/images/20200905/IMG_5113.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5113.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 ソースコードは以下である。<br>
 <div style="padding: 10px; margin-bottom: 10px; border: 1px solid #333333; background-color: #e6e6fa;">#include "HID-Project.h"<br>
 void setup() {<br>
@@ -218,13 +218,13 @@ arduinoに元から備わっているライブラリでは同時推し数に限�
 <h3 >6. ボタンとarduinoの接続</h3>
 制作した枠にarduinoを取り付ける。<br>
 天板を切り抜いた時のものの上にarduinoを載せ、ねじで固定した。
-<img src="/images/20200905/IMG_5121.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5121.JPG" alt="popncon"width = "90%" height = "90%" /><br>
 ボタンをはめると以下のようになる。<br>
-<img src="/images/20200905/IMG_5123.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5123.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 arduinoの2~10ピンにマイクロスイッチの真ん中と接続したジャンパーワイヤーを接続し、下と接続したジャンパーワイヤをGNDに接続する。<br>
 GNDの数には限りがあるため、GND用のジャンパーワイヤーは2,3個にまとめておいた方が良い。<br>
 マイクロスイッチをボタンにつける。<br>
-<img src="/images/20200905/IMG_5124.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5124.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 arduinoにソースコードを書き込み、蓋をすれば完成である。<br>
 蓋は開けるように蝶番をつけた。<br>
 <br>
@@ -235,15 +235,15 @@ arduinoにソースコードを書き込み、蓋をすれば完成である。<
 サンディングシーラーを表面に塗り乾いたら塗るを3,4回繰り返す。<br>
 #400番程度のサンドぺーパーで表面を軽く磨き整えた後、スプレーを表面に吹きかける。<br>
 スプレーも乾いたら吹きかけを3,4回繰り返す。<br>
-<img src="/images/20200905/image0.jpg" alt="popncon" /><br>
+<img src="/images/20200905/image0.jpg" alt="popncon" width = "90%" height = "90%"/><br>
 完全に乾かす。<br>
-<img src="/images/20200905/image1.jpg" alt="popncon" /><br>
+<img src="/images/20200905/image1.jpg" alt="popncon"width = "90%" height = "90%" /><br>
 枠に色をつけるため、マスキングテープを貼る。<br>
-<img src="/images/20200905/IMG_5108.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5108.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 金のスプレーを吹きかけ、マスキングテープを剥がし乾かす。<br>
-<img src="/images/20200905/IMG_5110.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5110.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 乾いたらニスを塗り乾いたらまた塗るを数回繰り返し、#1000番程度のサンドペーパーで表面を整えたら完成である。<br>
-<img src="/images/20200905/IMG_5131.JPG" alt="popncon" /><br>
+<img src="/images/20200905/IMG_5131.JPG" alt="popncon" width = "90%" height = "90%"/><br>
 <br>
 <p><a id = "i8"> </a><br></p>
 <h3 >8. 思ったこと</h3>
